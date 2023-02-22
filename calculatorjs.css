@@ -15,7 +15,7 @@ body {
 }
 
 .calculator {
-  background-color: rgb(47 171 203);
+  background-color: rgb(29 141 170);
   padding: 20px;
   border-radius: 10px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
@@ -33,14 +33,15 @@ body {
   font-size: 24px;
   width: 100%;
   text-align: right;
-  background-color: #f2f2f2;
+  background-color: white;
+  color: black;
   outline: none;
   border-radius: 0;
   border: solid 2px;
 }
 
 .display input:hover {
-  background-color: #f2f2f2;
+  background-color: white;
 }
 
 input {
